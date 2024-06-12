@@ -1,0 +1,32 @@
+{
+  "id": "706e837d-8ca5-4bb3-9fff-1983cfcc1316",
+  "name": "Bonus Registration",
+  "publisher": "MyCompany",
+  "version": "1.0.0.0",
+  "brief": "Extension allows to register bonus for customers",
+  "description": "Extension allows to register bonus for customers and generate a report",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://grafiekfabriek.com/",
+  "logo": "res/logo.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 65400,
+      "to": 65600
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.1",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
